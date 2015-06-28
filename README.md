@@ -1,3 +1,24 @@
+## teleop_twist_joy (jade) - 0.1.1-0
+
+The packages in the `teleop_twist_joy` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade teleop_twist_joy` on `Sun, 28 Jun 2015 01:47:44 -0000`
+
+The `teleop_twist_joy` package was released.
+
+Version of package(s) in repository `teleop_twist_joy`:
+- upstream repository: https://github.com/ros-teleop/teleop_twist_joy.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.9`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## teleop_twist_joy (indigo) - 0.1.1-0
 
 The packages in the `teleop_twist_joy` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo teleop_twist_joy` on `Sun, 28 Jun 2015 01:42:00 -0000`
