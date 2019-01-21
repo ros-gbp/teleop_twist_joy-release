@@ -1,3 +1,26 @@
+## teleop_twist_joy (melodic) - 0.1.3-0
+
+The packages in the `teleop_twist_joy` repository were released into the `melodic` distro by running `/usr/bin/bloom-release teleop_twist_joy --rosdistro melodic --track melodic --new-track` on `Mon, 21 Jan 2019 13:25:34 -0000`
+
+The `teleop_twist_joy` package was released.
+
+Version of package(s) in repository `teleop_twist_joy`:
+
+- upstream repository: https://github.com/ros-teleop/teleop_twist_joy.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.1`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.14.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## teleop_twist_joy (kinetic) - 0.1.3-0
 
 The packages in the `teleop_twist_joy` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release teleop_twist_joy --rosdistro kinetic` on `Mon, 21 Jan 2019 13:16:50 -0000`
